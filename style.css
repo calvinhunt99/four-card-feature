@@ -76,6 +76,7 @@ header p {
 
   .cards .col {
     width: 33.3%;
+    margin: 0;
   }
 }
 
